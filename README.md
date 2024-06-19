@@ -72,10 +72,3 @@ We welcome contributions! Please fork the repository and submit a pull request f
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
-
-For any inquiries or support, please contact:
-- **Email**: support@arapp.com
-- **GitHub Issues**: [Issues Page](https://github.com/your-repo/AR-App/issues)
-
-Thank you for using the AR Application! We hope you enjoy the experience.
