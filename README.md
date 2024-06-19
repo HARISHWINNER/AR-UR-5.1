@@ -33,7 +33,7 @@ Welcome to the AR Application! This application leverages Unreal Engine 5.1 to p
 1. Download and install Unreal Engine 5.1 from the [Epic Games Launcher](https://www.unrealengine.com/download).
 2. Clone the project repository to your local machine:
    ```sh
-   git clone https://github.com/your-repo/AR-App.git
+   git clone https://github.com/HARISHWINNER/AR-UR-5.1.git
    ```
 3. Open the project in Unreal Engine by navigating to the project folder and opening the `.uproject` file.
 
